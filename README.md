@@ -19,7 +19,7 @@ This projects contain three features which are User Registration, Log In and Use
 
 ##### Master Branch
 10. Open the project 'master' and open command prompt.
-11. 1Rum 'npm install' at the command prompt
+11. Run 'npm install' at the command prompt
 12. Run 'npm start' to start the project.
 
 #### ** NOTE **
