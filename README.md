@@ -6,7 +6,7 @@ This projects contain three features which are User Registration, Log In and Use
 ### Instruction
 'Please Make Sure To Look At The NOTE first'
 
-Laravel Branch
+#### Laravel Branch
 1. Download the projects and extract the files.
 2. Copy the folder and paste it at: C:\xampp\htdocs
 3. Open the project 'laravel-api' and open command propmt.
@@ -17,7 +17,7 @@ Laravel Branch
 8. Run 'php artisan migrate' at the command prompt.
 9. Run 'php artisan serve' at the command prompt.
 
-Master Branch
+##### Master Branch
 10. Open the project 'master' and open command prompt.
 11. 1Rum 'npm install' at the command prompt
 12. Run 'npm start' to start the project.
@@ -27,10 +27,11 @@ Make sure to have these installed:
 1. Node >= 10.16
 2. npm >= 5.6
 3. XAMPP: https://www.apachefriends.org/
-3. Composer: https://getcomposer.org/download/
+4. PHP Version >= 7.3
+5. Composer: https://getcomposer.org/download/
 
 ### Tools
- Editor: VS Code
- Framework: React(Frontend), Laravel(Backend), Bootstrap
- Database: MySQL
- Programming Language: HTML, CSS, Javascript
+1. Editor: VS Code
+2. Framework: React(Frontend), Laravel(Backend), Bootstrap
+3. Database: MySQL
+4. Programming Language: HTML, CSS, Javascript
