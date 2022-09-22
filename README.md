@@ -22,7 +22,7 @@ This projects contain three features which are User Registration, Log In and Use
 11. 1Rum 'npm install' at the command prompt
 12. Run 'npm start' to start the project.
 
-#### Note
+#### ** NOTE **
 Make sure to have these installed:
 1. Node >= 10.16
 2. npm >= 5.6
