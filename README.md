@@ -1,21 +1,26 @@
 ## Backend Developer (Graduate Trainee) Application | Pop Quiz
 
 ### Introduction
+This projects contain three features which are User Registration, Log In and User Profile. This project develop by using React JS as Framework for frontend and Laravel framework for Backend.
 
 ### Instruction
+'Please Make Sure To Look At The NOTE first'
 
 Laravel Branch
- 1. Download the projects and extract the files.
- 2. Open the project 'laravel' and open command propmt.
- 3. Run the xamppp and start the modules Apache and MySQL.
- 4. At XAMPP Control Panel, click Admin to open phpmyadmin.
- 5. Create the database and named it 'regov'
- 6. Run 'php artisan migrate' at the command prompt.
- 7. Run 'php artisan serve' at the command prompt.
+1. Download the projects and extract the files.
+2. Copy the folder and paste it at: C:\xampp\htdocs
+3. Open the project 'laravel-api' and open command propmt.
+4. Run 'composer install' at the command prompt.
+5. Run the xamppp and start the modules Apache and MySQL.
+6. At XAMPP Control Panel, click Admin (MySQL) to open phpmyadmin.
+7. Create the database and named it 'regov'
+8. Run 'php artisan migrate' at the command prompt.
+9. Run 'php artisan serve' at the command prompt.
 
 Master Branch
-7. Open the project 'master' and open command prompt
-8. Run 'npm start' to start the project.
+10. Open the project 'master' and open command prompt.
+11. 1Rum 'npm install' at the command prompt
+12. Run 'npm start' to start the project.
 
 #### Note
 Make sure to have these installed:
