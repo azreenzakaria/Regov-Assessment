@@ -5,16 +5,16 @@
 ### Instruction
 
 Laravel Branch
-1. Open the project 'laravel' and open command propmt
-2. Run the xamppp and start the modules Apache and MySQL.
-3. Run 'php artisan migrate' at the command prompt.
-4. Run 'php artisan serve' at the command prompt.
-5. Create the database at phpmyadinm and named it 'regov'.
+ 1. Open the project 'laravel' and open command propmt
+ 2. Run the xamppp and start the modules Apache and MySQL.
+ 3. Run 'php artisan migrate' at the command prompt.
+ 4. Run 'php artisan serve' at the command prompt.
+ 5. Create the database at phpmyadinm and named it 'regov'.
 
 Master Branch
-6. Download the projects and extract the folder
-7. Open the project 'master' and open command prompt
-8. Run 'npm start' to start the project.
+ 6. Download the projects and extract the folder
+ 7. Open the project 'master' and open command prompt
+ 8. Run 'npm start' to start the project.
 
 #### Note
 Make sure to have:
@@ -24,7 +24,7 @@ Make sure to have:
 3. Composer: https://getcomposer.org/download/
 
 ###Tools
-Editor: VS Code
-Framework: React(Frontend), Laravel(Backend), Bootstrap
-Database: MySQL
-Programming Language: HTML, CSS, Javascript
+ Editor: VS Code
+ Framework: React(Frontend), Laravel(Backend), Bootstrap
+ Database: MySQL
+ Programming Language: HTML, CSS, Javascript
