@@ -2,7 +2,7 @@
 
 ### Introduction
 
-### Intruction
+### Instruction
 
 Laravel Branch
 1. Open the project 'laravel' and open command propmt
@@ -24,7 +24,7 @@ Make sure to have:
 3. Composer: https://getcomposer.org/download/
 
 ###Tools
-
-
-
-
+Editor: VS Code
+Framework: React(Frontend), Laravel(Backend), Bootstrap
+Database: MySQL
+Programming Language: HTML, CSS, Javascript
