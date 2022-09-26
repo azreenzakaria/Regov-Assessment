@@ -3,10 +3,10 @@
 ### Introduction
 This projects contain three features which are User Registration, Log In and User Profile. This project develop by using React JS as Framework for frontend and Laravel framework for Backend.
 
-### Instruction
+## Instruction
 'Please Make Sure To Look At The NOTE first'
 
-#### Laravel Branch
+#### Laravel Branch (Server Api)
 1. Download the projects and extract the files.
 2. Copy the folder and paste it at: C:\xampp\htdocs
 3. Open the project 'laravel-api' and open command propmt.
