@@ -6,9 +6,11 @@ This projects contain three features which are User Registration, Log In and Use
 ## Instruction
 'Please Make Sure To Look At The NOTE first'
 
-#### Laravel Branch (Server Api)
-1. Download the projects and extract the files.
-2. Copy the folder and paste it at: C:\xampp\htdocs
+#### Download & Extract Folders
+1. Download the projects (master & laravel-api branch) and extract the files.
+2. Copy the both folders and paste it at: C:\xampp\htdocs
+
+#### laravel-api Branch (Server Api)
 3. Open the project 'laravel-api' and open command propmt.
 4. Run 'composer install' at the command prompt.
 5. Run the xamppp and start the modules Apache and MySQL.
@@ -17,7 +19,7 @@ This projects contain three features which are User Registration, Log In and Use
 8. Run 'php artisan migrate' at the command prompt.
 9. Run 'php artisan serve' at the command prompt.
 
-##### Master Branch
+##### master Branch
 10. Open the project 'master' and open command prompt.
 11. Run 'npm install' at the command prompt
 12. Run 'npm start' to start the project.
